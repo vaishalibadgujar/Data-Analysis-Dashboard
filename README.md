@@ -32,3 +32,6 @@ The analysis is performed using Excel, SQL, Power BI, and Tableau.
 
 ## 📌 Conclusion
 This project demonstrates strong skills in data analysis, visualization, and business insights generation using multiple BI tools.
+
+## Dashboard Screenshots
+https://github.com/vaishalibadgujar/Data-Analysis-Dashboard/blob/main/Excel%20Dashboard.png
