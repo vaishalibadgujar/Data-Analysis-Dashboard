@@ -34,4 +34,6 @@ The analysis is performed using Excel, SQL, Power BI, and Tableau.
 This project demonstrates strong skills in data analysis, visualization, and business insights generation using multiple BI tools.
 
 ## Dashboard Screenshots
-https://github.com/vaishalibadgujar/Data-Analysis-Dashboard/blob/main/Excel%20Dashboard.png
+
+<img width="989" height="433" alt="Adventure Cycle Project Excel Dashboard" src="https://github.com/user-attachments/assets/c98bcff1-6e48-4d61-b86e-389d8a45149a" />
+
