@@ -1,5 +1,4 @@
 # 🚴 Adventure Cycle Sales Analysis Project
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization
 
 ## 📊 Project Overview
 This project focuses on analyzing Adventure Cycle sales data to identify trends, customer behavior, and revenue insights.  
@@ -18,6 +17,18 @@ The analysis is performed using Excel, SQL, Power BI, and Tableau.
 - *Power BI* – Interactive dashboard creation
 - *Tableau* – Visual analytics and storytelling
 
+## Dashboard Screenshots
+
+## Excel Dashboard
+<img width="989" height="433" alt="Adventure Cycle Project Excel Dashboard" src="https://github.com/user-attachments/assets/c98bcff1-6e48-4d61-b86e-389d8a45149a" />
+
+## Power BI Dashboard
+<img width="896" height="500" alt="Adventure Cycle Project Power Bi Dashboard" src="https://github.com/user-attachments/assets/7222b196-eb4d-44e2-9856-cbd54642419a" />
+
+## Tableau Dashboard
+<img width="1156" height="548" alt="Adventure Cycle Project Tableau Dashboard" src="https://github.com/user-attachments/assets/52f2ee9d-0e8c-4d30-acb9-c59149f47e95" />
+
+
 ## 📈 Dashboards & Analysis
 - Monthly & yearly sales trends
 - Top products by revenue and profit
@@ -33,7 +44,4 @@ The analysis is performed using Excel, SQL, Power BI, and Tableau.
 ## 📌 Conclusion
 This project demonstrates strong skills in data analysis, visualization, and business insights generation using multiple BI tools.
 
-## Dashboard Screenshots
-
-<img width="989" height="433" alt="Adventure Cycle Project Excel Dashboard" src="https://github.com/user-attachments/assets/c98bcff1-6e48-4d61-b86e-389d8a45149a" />
 
